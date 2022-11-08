@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou o Rafael Gioffi
-- 🌱 Atualmente estudando Python, Django, Selenium, Pandas, Java, Typescript, NodeJS e PHP
+- 🌱 Desenvolvedor .NET e Front-end Angular
 - 📫 Estou em busca de uma oportunidade
 
 ##
