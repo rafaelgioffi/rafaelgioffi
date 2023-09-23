@@ -1,6 +1,5 @@
 - 👋 Olá, Eu sou o Rafael Gioffi
-- 🌱 Desenvolvedor .NET e Front-end Angular
-- 📫 Estou em busca de uma oportunidade
+- 🌱 Desenvolvedor .NET, Front-end Angular/React
 
 ##
 
