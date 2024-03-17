@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou o Rafael Gioffi
-- 🌱 Desenvolvedor .NET, Front-end Angular/React
+- 🌱 Desenvolvedor .NET Fullstack
 
 ##
 
